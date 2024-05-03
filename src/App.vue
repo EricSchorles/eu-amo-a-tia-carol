@@ -11,7 +11,7 @@ onload = () => {
 </script>
 
 <template>
-<!-- wtf -->
+  <div></div>
   <body class="not-loaded">
     <div class="night"></div>
     <div class="flowers">
@@ -327,4 +327,5 @@ onload = () => {
 </template>
 
 <style lang="sass">
+@import './src/style.scss'
 </style>
