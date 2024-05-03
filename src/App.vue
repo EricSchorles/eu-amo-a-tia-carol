@@ -4,6 +4,7 @@ import HelloWorld from "./components/HelloWorld.vue";
 </script>
 
 <template>
+<!-- wtf -->
   <body class="not-loaded">
     <div class="night"></div>
     <div class="flowers">
